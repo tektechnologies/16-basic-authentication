@@ -17,4 +17,4 @@ authRouter.get('/signin', auth, (req, res) => {
 
 // TODO: POST /signin
 
-export default authRoute;
+export default authRouter;
